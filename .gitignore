@@ -3,7 +3,6 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
 .env
 .mvn/wrapper/
 ### STS ###
@@ -112,4 +111,4 @@ buildNumber.properties
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
-.ionide
+.ionide.mvn/wrapper/
